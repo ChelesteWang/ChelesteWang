@@ -2,6 +2,8 @@
 
 [![yuqing521's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuqing521)](https://github.com/yuqing521/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuqing521&layout=compact)](https://github.com/yuqing521/github-readme-stats)
+
 <!--
 **yuqing521/yuqing521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
