@@ -3,7 +3,7 @@
 
 编程导航核心开发者，核心运营
 
-Omi 项目贡献值
+Omi 项目贡献者
 
 ## my project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuTools-FE&repo=yu-website)](https://github.com/YuTools-FE/yu-website)
