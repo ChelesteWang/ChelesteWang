@@ -1,5 +1,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=yuqing521.readme)
 ![](http://antzuhl.cn:4000/get/@yuqing521.readme)
+
+编程导航核心开发者，核心运营
+
+Omi 项目贡献值
+
 ## my project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuTools-FE&repo=yu-website)](https://github.com/YuTools-FE/yu-website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YuTools-FE&repo=yu-react-template)](https://github.com/YuTools-FE/yu-react-template)
