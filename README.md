@@ -4,6 +4,8 @@
 [![](https://img.shields.io/badge/-@yuqing521-%23181717?style=flat-square&logo=github)](https://github.com/yuqing521)
 [![](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E5%92%B8%E9%B1%BC%E7%88%B1%E5%89%8D%E7%AB%AF-brightgreen)](https://juejin.cn/user/43636197953101)
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-CodeLife-brightgreen)](https://yuqing521.github.io/)
+![](https://visitor-badge.glitch.me/badge?page_id=yuqing521.readme)
+
 
 
 𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
@@ -49,17 +51,9 @@
   <img alt="TencentCloudBase" width="22px" src="https://user-images.githubusercontent.com/41336612/118458609-86541200-b72d-11eb-9491-6322f459ca6a.png" />
 </a>
 
-## Stats
-
 ![yuqing521's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuqing521&show_icons=true)
 <br>
 ![Metrics](https://metrics.lecoq.io/yuqing521?template=classic&base.activity=0&base.community=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)
-
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-![](https://visitor-badge.glitch.me/badge?page_id=yuqing521.readme)
-
-
 
 
 
