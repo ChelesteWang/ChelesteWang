@@ -51,7 +51,7 @@
 
 ## Stats
 
-![yuqing521's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuqing521&show_icons=true&theme=dracula)
+![yuqing521's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuqing521&show_icons=true)
 <br>
 ![Metrics](https://metrics.lecoq.io/yuqing521?template=classic&base.activity=0&base.community=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)
 
