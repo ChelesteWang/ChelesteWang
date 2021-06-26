@@ -16,6 +16,21 @@
 
 :writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌, 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒄𝒉𝒆𝒄𝒌 𝒎𝒚 [monthly](http://github.com/xiaoluoboding/monthly) 𝒓𝒆𝒑𝒐𝒔 𝒄𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒎𝒐𝒓𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒔. -->
 
+<br>
+<a href="#">
+<img height="27px" src="https://user-images.githubusercontent.com/41336612/118458463-5c9aeb00-b72d-11eb-947f-5a1f6a7f8b9e.png" />
+</a>
+<a href="https://github.com/Tencent/OMI">
+  <img alt="Tencent" width="22px" src="https://user-images.githubusercontent.com/41336612/118458817-b1d6fc80-b72d-11eb-8bcc-f4c995635ca3.png" />
+</a>
+<a href="https://github.com/liyupi/code-nav">
+  <img alt="code-nav" width="22px" src="https://avatars.githubusercontent.com/u/81901028?s=400&u=a7294592037e78b51b4b3badfd8ce06bdbde1997&v=4" />
+</a>
+<a href="https://github.com/TencentCloudBase/cloudbase-framework">
+  <img alt="TencentCloudBase" width="22px" src="https://user-images.githubusercontent.com/41336612/118458609-86541200-b72d-11eb-9491-6322f459ca6a.png" />
+</a>
+
+
 ## Technology Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -36,20 +51,6 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
-
-
-<a href="#">
-<img height="27px" src="https://user-images.githubusercontent.com/41336612/118458463-5c9aeb00-b72d-11eb-947f-5a1f6a7f8b9e.png" />
-</a>
-<a href="https://github.com/Tencent/OMI">
-  <img alt="Tencent" width="22px" src="https://user-images.githubusercontent.com/41336612/118458817-b1d6fc80-b72d-11eb-8bcc-f4c995635ca3.png" />
-</a>
-<a href="https://github.com/liyupi/code-nav">
-  <img alt="code-nav" width="22px" src="https://avatars.githubusercontent.com/u/81901028?s=400&u=a7294592037e78b51b4b3badfd8ce06bdbde1997&v=4" />
-</a>
-<a href="https://github.com/TencentCloudBase/cloudbase-framework">
-  <img alt="TencentCloudBase" width="22px" src="https://user-images.githubusercontent.com/41336612/118458609-86541200-b72d-11eb-9491-6322f459ca6a.png" />
-</a>
 
 ![yuqing521's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuqing521&show_icons=true)
 <br>
