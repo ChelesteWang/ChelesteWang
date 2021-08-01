@@ -1,7 +1,7 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Xinyuan Wang
 
 
-[![](https://img.shields.io/badge/-@ChelesteWang-%23181717?style=flat-square&logo=github)](https://github.com/ChelesteWang)
+[![](https://img.shields.io/badge/-@ChelesteWang?style=flat-square&logo=github)](https://github.com/ChelesteWang)
 [![](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E5%92%B8%E9%B1%BC%E7%88%B1%E5%89%8D%E7%AB%AF-brightgreen)](https://juejin.cn/user/43636197953101)
 [![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-CodeLife-brightgreen)](https://ChelesteWang.github.io/)
 ![](https://visitor-badge.glitch.me/badge?page_id=ChelesteWang.readme)
@@ -14,7 +14,7 @@
 <!-- 
 :vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝑽𝒖𝒆.𝒋𝒔 𝒏𝒆𝒓𝒅.
 
-:writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌, 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒄𝒉𝒆𝒄𝒌 𝒎𝒚 [monthly](http://github.com/xiaoluoboding/monthly) 𝒓𝒆𝒑𝒐𝒔 𝒄𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒎𝒐𝒓𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒔. -->
+:writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌, 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒄𝒉𝒆𝒄𝒌 𝒎𝒚 𝒓𝒆𝒑𝒐𝒔 𝒄𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒎𝒐𝒓𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒔. -->
 
 
 <br>
@@ -56,7 +56,6 @@
 
 ![ChelesteWang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChelesteWang&show_icons=true)
 <br>
-![Metrics](https://metrics.lecoq.io/ChelesteWang?template=classic&config.timezone=Asia%2FShanghai)
 
 ![Metrics](https://metrics.lecoq.io/ChelesteWang?template=classic&base.activity=0&base.community=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)
 
