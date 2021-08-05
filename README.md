@@ -31,7 +31,13 @@
   <img alt="TencentCloudBase" width="22px" src="https://user-images.githubusercontent.com/41336612/118458609-86541200-b72d-11eb-9491-6322f459ca6a.png" />
 </a>
 
+<a href="https://github.com/snowpackjs/astro">
+  <img alt="astro" width="22px" src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" />
+</a>
+
 **Contribution to OMI & Code-Nav & cloudbase-framework**
+
+**Translate Chinese documents for @snowpackjs/astro** 
 
 ## Technology Stack
 
