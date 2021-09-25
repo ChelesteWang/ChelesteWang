@@ -36,7 +36,7 @@
   <img alt="astro" width="22px" src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" />
 </a>
 
-**Contribution to OMI & Code-Nav & cloudbase-framework**
+**Contribution to OMI & westore & Code-Nav & cloudbase-framework**
 
 **Translate Chinese documents for @snowpackjs/astro** 
 
