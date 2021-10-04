@@ -37,7 +37,11 @@
   <img alt="astro" width="22px" src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" />
 </a>
 
-**Contribution to OMI & westore & Code-Nav & cloudbase-framework**
+<a href="https://github.com/hua1995116/react-resume-site">
+  <img alt="astro" width="22px" src="https://s3.qiufeng.blue/muji/muji-logo-v2.jpg" />
+</a>
+
+**Contribution to OMI & westore & Code-Nav & cloudbase-framework & CV-MUJI **
 
 **Translate Chinese documents for @snowpackjs/astro** 
 
