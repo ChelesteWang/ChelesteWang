@@ -26,6 +26,9 @@
 <a href="https://github.com/Tencent/OMI">
   <img alt="Tencent" width="22px" src="https://user-images.githubusercontent.com/41336612/118458817-b1d6fc80-b72d-11eb-8bcc-f4c995635ca3.png" />
 </a>
+<a href="https://github.com/bytedance/magic-microservices">
+  <img alt="Tencent" width="22px" src="https://avatars.githubusercontent.com/u/4158466?s=200&v=4" />
+</a>
 <a href="https://github.com/liyupi/code-nav">
   <img alt="code-nav" width="22px" src="https://avatars.githubusercontent.com/u/81901028?s=400&u=a7294592037e78b51b4b3badfd8ce06bdbde1997&v=4" />
 </a>
