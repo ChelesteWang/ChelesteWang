@@ -44,7 +44,7 @@
   <img alt="astro" width="22px" src="https://s3.qiufeng.blue/muji/muji-logo-v2.jpg" />
 </a>
 
-**Contribution to OMI & westore & Code-Nav & cloudbase-framework & CV-MUJI**
+**Contribution to OMI & westore & magic-microservices & Code-Nav & cloudbase-framework & CV-MUJI**
 
 **Translate Chinese documents for @snowpackjs/astro** 
 
