@@ -45,7 +45,7 @@
 
 **Contribution to OMI & westore & magic-microservices & Code-Nav & cloudbase-framework & CV-MUJI**
 
-**Translate Chinese documents for @snowpackjs/astro** 
+**Translate Chinese documents for React @snowpackjs/astro** 
 
 ## Technology Stack
 
