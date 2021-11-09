@@ -26,7 +26,7 @@
   <img alt="Tencent" width="22px" src="https://user-images.githubusercontent.com/41336612/118458817-b1d6fc80-b72d-11eb-8bcc-f4c995635ca3.png" />
 </a>
 <a href="https://github.com/bytedance/magic-microservices">
-  <img alt="Tencent" width="22px" src="https://avatars.githubusercontent.com/u/4158466?s=200&v=4" />
+  <img alt="bytedance" width="22px" src="https://avatars.githubusercontent.com/u/4158466?s=200&v=4" />
 </a>
 <a href="https://github.com/liyupi/code-nav">
   <img alt="code-nav" width="22px" src="https://avatars.githubusercontent.com/u/81901028?s=400&u=a7294592037e78b51b4b3badfd8ce06bdbde1997&v=4" />
@@ -40,7 +40,7 @@
 </a>
 
 <a href="https://github.com/hua1995116/react-resume-site">
-  <img alt="astro" width="22px" src="https://s3.qiufeng.blue/muji/muji-logo-v2.jpg" />
+  <img alt="mujicv" width="22px" src="https://s3.qiufeng.blue/muji/muji-logo-v2.jpg" />
 </a>
 
 **Contribution to OMI & westore & magic-microservices & Code-Nav & cloudbase-framework & CV-MUJI**
