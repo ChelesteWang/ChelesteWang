@@ -28,6 +28,15 @@
 <a href="https://github.com/bytedance/magic-microservices">
   <img alt="bytedance" width="22px" src="https://avatars.githubusercontent.com/u/4158466?s=200&v=4" />
 </a>
+
+<a href="https://github.com/DouyinFE/semi-design">
+  <img alt="semi-design" width="22px" src="https://avatars.githubusercontent.com/u/88025672?s=200&v=4" />
+</a>
+
+<a href="https://github.com/arco-design/arco-design">
+  <img alt="arco-design" width="22px" src="https://avatars.githubusercontent.com/u/64576149?s=200&v=4" />
+</a>
+
 <a href="https://github.com/liyupi/code-nav">
   <img alt="code-nav" width="22px" src="https://avatars.githubusercontent.com/u/81901028?s=400&u=a7294592037e78b51b4b3badfd8ce06bdbde1997&v=4" />
 </a>
@@ -35,7 +44,7 @@
   <img alt="TencentCloudBase" width="22px" src="https://user-images.githubusercontent.com/41336612/118458609-86541200-b72d-11eb-9491-6322f459ca6a.png" />
 </a>
 
-<a href="https://github.com/snowpackjs/astro">
+<a href="https://github.com/withastro/astro">
   <img alt="astro" width="22px" src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" />
 </a>
 
@@ -43,9 +52,9 @@
   <img alt="mujicv" width="22px" src="https://s3.qiufeng.blue/muji/muji-logo-v2.jpg" />
 </a>
 
-**Contribution to OMI & westore & magic-microservices & Code-Nav & cloudbase-framework & CV-MUJI**
+**Contribution to OMI & westore & semi-design & arco-design & modernjs & magic-microservices & Code-Nav & cloudbase-framework & CV-MUJI**
 
-**Translate Chinese documents for React , @snowpackjs/astro** 
+**Translate Chinese documents for React , @withastro/astro** 
 
 ## Technology Stack
 
