@@ -83,7 +83,7 @@ A new fantasy Project , CodeDragger is a practice of lowcode
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
-![ChelesteWang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChelesteWang&show_icons=true)
+![ChelesteWang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChelesteWang&show_icons=true&count_private=true)
 <br>
 
 ![Metrics](https://metrics.lecoq.io/ChelesteWang?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&people=1&followup=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&config.timezone=Asia%2FShanghai)
